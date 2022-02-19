@@ -1,0 +1,7 @@
+{
+  "name": "progressClock",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
